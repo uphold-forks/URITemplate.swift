@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2202450528CFA50DD806F0340B3987713E89BFB6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2202450528CFA50DD806F0340B3987713E89BFB6" : 9223372036854775807,
+    "E3472B155FC961329A2EA7BFAD3AFAE6EFBD63E5" : 9223372036854775807,
+    "D591987028BFCE350CA11D7DA7F1AE9C4373C207" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "645A412F-6307-4CA5-A915-D1CFAC05599C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2202450528CFA50DD806F0340B3987713E89BFB6" : "URITemplate.swift\/",
+    "E3472B155FC961329A2EA7BFAD3AFAE6EFBD63E5" : "URITemplate.swift\/.build\/checkouts\/PathKit--9185519632264250829\/",
+    "D591987028BFCE350CA11D7DA7F1AE9C4373C207" : "URITemplate.swift\/.build\/checkouts\/Spectre--9185491864710013835\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "URITemplate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "URITemplate.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:uphold-forks\/URITemplate.swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2202450528CFA50DD806F0340B3987713E89BFB6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/sandromachado\/Desktop\/temp\/URITemplate.swift\/.build\/repositories\/Spectre--9185491864710013835",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D591987028BFCE350CA11D7DA7F1AE9C4373C207"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/sandromachado\/Desktop\/temp\/URITemplate.swift\/.build\/repositories\/PathKit--9185519632264250829",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3472B155FC961329A2EA7BFAD3AFAE6EFBD63E5"
+    }
+  ]
+}
